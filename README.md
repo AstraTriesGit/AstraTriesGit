@@ -8,7 +8,7 @@ real world, benefiting all of humankind.
 - 📏 **Maths:** Spatial statistics, numerical partial differential equations, numerical linear algebra
 - 💻 **CSE:** Operating systems internals, emulation
 
-#### My LinkedIn exists in case you may require the talents of the **greatest econometrician that's ever lived!** _(citation needed)_
+#### Who knows what I'm really doing at this point. But it sure seems to be entertaining.
 <!---
 AstraTriesGit/AstraTriesGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
